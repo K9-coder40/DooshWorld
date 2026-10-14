@@ -4846,6 +4846,13 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 60px 0;
 }
 th, td {
   border-bottom: 1px solid #ddd;
